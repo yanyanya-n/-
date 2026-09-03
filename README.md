@@ -12,3 +12,9 @@ friendly greeting string.
 ```bash
 python greet.py
 ```
+
+## Running tests
+
+```bash
+pytest
+```
